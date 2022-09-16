@@ -3,6 +3,8 @@
   "files.associations": {
     "freertos.h": "c",
     "task.h": "c",
-    "*.inc": "c"
+    "*.inc": "c",
+    "string.h": "c",
+    "string_view": "c"
   }
 }
